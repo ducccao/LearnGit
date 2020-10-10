@@ -1,2 +1,2 @@
 var one = 1;
-console.log("branch A");
+console.log("B touch A");
